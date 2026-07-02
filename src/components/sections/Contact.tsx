@@ -81,7 +81,7 @@ export function Contact() {
                 </div>
               </a>
 
-              <a href="www.linkedin.com/in/samson-jebaraj-e-152210202" target="_blank" rel="noopener noreferrer" className="flex items-center gap-4 group">
+              <a href="https://www.linkedin.com/in/samson-jebaraj-e-152210202" target="_blank" rel="noopener noreferrer" className="flex items-center gap-4 group">
                 <div className="w-12 h-12 rounded-xl glass flex items-center justify-center group-hover:bg-primary/20 transition-colors">
                   <FaLinkedin className="w-5 h-5 text-primary" />
                 </div>
@@ -97,7 +97,7 @@ export function Contact() {
                 </div>
                 <div>
                   <p className="text-sm text-slate-500">GitHub</p>
-                  <p className="font-medium text-white group-hover:text-primary transition-colors">@samsonjebaraj</p>
+                  <p className="font-medium text-white group-hover:text-primary transition-colors">@Samsonjebaraj2023</p>
                 </div>
               </a>
             </div>

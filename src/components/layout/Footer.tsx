@@ -10,7 +10,7 @@ export function Footer() {
         </p>
         <div className="flex items-center gap-6">
           <a
-            href="https://github.com"
+            href="https://github.com/Samsonjebaraj2023"
             target="_blank"
             rel="noopener noreferrer"
             className="text-slate-400 hover:text-primary transition-colors"
@@ -19,7 +19,7 @@ export function Footer() {
             <span className="sr-only">GitHub</span>
           </a>
           <a
-            href="https://linkedin.com"
+            href="https://www.linkedin.com/in/samson-jebaraj-e-152210202"
             target="_blank"
             rel="noopener noreferrer"
             className="text-slate-400 hover:text-primary transition-colors"
